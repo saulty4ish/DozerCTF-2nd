@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+service ctf {
+    rpc test_api(CommonRequest) returns (TestApiReply) {}
+    rpc get_flag(CommonRequest) returns(GetFlagReply) {}
+}
+
+message CommonRequest {
+}
+
+message TestApiReply {
+	string s=1;
+}
+
+message GetFlagReply {
+	string flag=1;
+}
+
+

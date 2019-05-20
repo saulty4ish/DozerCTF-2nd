@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root1>
+    <user>
+        <username name='user1'>user1</username>
+        <key>KEY:1</key>
+        <username name='user2'>user2</username>
+        <key>KEY:2</key>
+        <username name='user3'>user3</username>
+        <key>KEY:3</key>
+        <username name='user4'>user4</username>
+        <key>KEY:4</key>
+        <username name='user5'>user5</username>
+        <key>KEY:5</key>
+        <username name='user6'>user6</username>
+        <key>KEY:6</key>
+        <username name='user7'>user7</username>
+        <key>KEY:7</key>
+        <username name='user8'>user8</username>
+        <key>KEY:8</key>
+        <username name='user9'>user9</username>
+        <key>KEY:9</key>
+    </user>
+    <jitctfadmin>
+        <username name='jitctf1'>jitctf1</username>
+		<key>plash</key>
+		<username name='jitctf2'>jitctf2</username>
+		<username name='jitctf2'>jitctf2</username>
+		<key>reboil</key>
+		<username name='jitctf3'>jitctf3</username>
+		<key>othman</key>
+		<username name='jitctf4'>jitctf4</username>
+		<key>anyone</key>
+		<username name='jitctf5'>jitctf5</username>
+		<key>phylic</key>
+		<username name='jitctf6'>jitctf6</username>
+		<key>envier</key>
+		<username name='jitctf7'>jitctf7</username>
+		<key>offend</key>
+		<username name='jitctf8'>jitctf8</username>
+		<key>pinier</key>
+		<username name='jitctf9'>jitctf9</username>
+		<key>fallen</key>
+		<username name='jitctf10'>jitctf10</username>
+		<key>thomas</key>
+		<username name='jitctf11'>jitctf11</username>
+		<key>caelum</key>
+		<username name='jitctf12'>jitctf12</username>
+		<key>dakoit</key>
+		<username name='jitctf13'>jitctf13</username>
+		<key>chevet</key>
+		<username name='jitctf14'>jitctf14</username>
+		<key>ossein</key>
+		<username name='jitctf15'>jitctf15</username>
+		<key>silvia</key>
+		<username name='jitctf16'>jitctf16</username>
+		<key>pencel</key>
+		<username name='jitctf17'>jitctf17</username>
+		<key>hersey</key>
+		<username name='jitctf18'>jitctf18</username>
+		<key>ology</key>
+		<username name='jitctf19'>jitctf19</username>
+		<key>anally</key>
+		<username name='jitctf20'>jitctf20</username>
+		<key>mangle</key>
+		<username name='jitctf21'>jitctf21</username>
+		<key>dopier</key>
+		<username name='jitctf22'>jitctf22</username>
+		<key>ianthe</key>
+		<username name='jitctf23'>jitctf23</username>
+		<key>lomond</key>
+		<username name='jitctf24'>jitctf24</username>
+		<key>calves</key>
+		<username name='jitctf25'>jitctf25</username>
+		<key>nimble</key>
+		<username name='jitctf26'>jitctf26</username>
+		<key>ethnol</key>
+		<username name='jitctf27'>jitctf27</username>
+		<key>hockle</key>
+		<username name='jitctf28'>jitctf28</username>
+		<key>henryk</key>
+		<username name='jitctf29'>jitctf29</username>
+		<key>coelom</key>
+		<username name='jitctf30'>jitctf30</username>
+		<key>harrow</key>
+		<username name='jitctf31'>jitctf31</username>
+		<key>sierra</key>
+		<username name='jitctf32'>jitctf32</username>
+		<key>cesura</key>
+		<username name='jitctf33'>jitctf33</username>
+		<key>sparse</key>
+		<username name='jitctf34'>jitctf34</username>
+		<key>chaori</key>
+		<username name='jitctf35'>jitctf35</username>
+		<key>toling</key>
+		<username name='jitctf36'>jitctf36</username>
+		<key>potted</key>
+		<username name='jitctf37'>jitctf37</username>
+		<key>tergal</key>
+		<username name='jitctf38'>jitctf38</username>
+		<key>gilmer</key>
+		<username name='jitctf39'>jitctf39</username>
+		<key>arline</key>
+		<username name='jitctf40'>jitctf40</username>
+		<key>maggie</key>
+		<username name='jitctf41'>jitctf41</username>
+		<key>accent</key>
+		<username name='jitctf42'>jitctf42</username>
+		<key>epeans</key>
+		<username name='jitctf43'>jitctf43</username>
+		<key>empale</key>
+		<username name='jitctf44'>jitctf44</username>
+		<key>octode</key>
+		<username name='jitctf45'>jitctf45</username>
+		<key>incise</key>
+		<username name='jitctf46'>jitctf46</username>
+		<key>dromoi</key>
+		<username name='jitctf47'>jitctf47</username>
+		<key>illude</key>
+		<username name='jitctf48'>jitctf48</username>
+		<key>thorpe</key>
+		<username name='jitctf49'>jitctf49</username>
+		<key>spuing</key>
+		<username name='jitctf50'>jitctf50</username>
+		<key>bhudan</key>
+		<username name='jitctf51'>jitctf51</username>
+		<key>coffee</key>
+		<username name='jitctf52'>jitctf52</username>
+		<key>assisi</key>
+		<username name='jitctf53'>jitctf53</username>
+		<key>scaler</key>
+		<username name='jitctf54'>jitctf54</username>
+		<key>bonita</key>
+		<username name='jitctf55'>jitctf55</username>
+		<key>payoff</key>
+		<username name='jitctf56'>jitctf56</username>
+		<key>souple</key>
+		<username name='jitctf57'>jitctf57</username>
+		<key>matrix</key>
+		<username name='jitctf58'>jitctf58</username>
+		<key>icaaaa</key>
+		<username name='jitctf59'>jitctf59</username>
+		<key>pinene</key>
+		<username name='jitctf60'>jitctf60</username>
+		<key>hattie</key>
+		<username name='jitctf61'>jitctf61</username>
+		<key>esnecy</key>
+		<username name='jitctf62'>jitctf62</username>
+		<key>whacky</key>
+		<username name='jitctf63'>jitctf63</username>
+		<key>moesia</key>
+		<username name='jitctf64'>jitctf64</username>
+		<key>rosary</key>
+		<username name='jitctf65'>jitctf65</username>
+		<key>fervor</key>
+		<username name='jitctf66'>jitctf66</username>
+		<key>mauger</key>
+		<username name='jitctf67'>jitctf67</username>
+		<key>depart</key>
+		<username name='jitctf68'>jitctf68</username>
+		<key>diaper</key>
+		<username name='jitctf69'>jitctf69</username>
+		<key>jujube</key>
+		<username name='jitctf70'>jitctf70</username>
+		<key>tereus</key>
+		<username name='jitctf71'>jitctf71</username>
+		<key>tumefy</key>
+		<username name='jitctf72'>jitctf72</username>
+		<key>daiker</key>
+		<username name='jitctf73'>jitctf73</username>
+		<key>apogee</key>
+		<username name='jitctf74'>jitctf74</username>
+		<key>danube</key>
+		<username name='jitctf75'>jitctf75</username>
+		<key>hughie</key>
+		<username name='jitctf76'>jitctf76</username>
+		<key>medina</key>
+		<username name='jitctf77'>jitctf77</username>
+		<key>rampur</key>
+		<username name='jitctf78'>jitctf78</username>
+		<key>tragus</key>
+		<username name='jitctf79'>jitctf79</username>
+		<key>glossy</key>
+		<username name='jitctf80'>jitctf80</username>
+		<key>amadeo</key>
+		<username name='jitctf81'>jitctf81</username>
+		<key>slangy</key>
+		<username name='jitctf82'>jitctf82</username>
+		<key>liquer</key>
+		<username name='jitctf83'>jitctf83</username>
+		<key>coleus</key>
+		<username name='jitctf84'>jitctf84</username>
+		<key>canara</key>
+		<username name='jitctf85'>jitctf85</username>
+		<key>pyosis</key>
+		<username name='jitctf86'>jitctf86</username>
+		<key>obtuse</key>
+		<username name='jitctf87'>jitctf87</username>
+		<key>afflux</key>
+		<username name='jitctf88'>jitctf88</username>
+		<key>bildad</key>
+		<username name='jitctf89'>jitctf89</username>
+		<key>teeter</key>
+		<username name='jitctf90'>jitctf90</username>
+		<key>bearer</key>
+		<username name='jitctf91'>jitctf91</username>
+		<key>tierce</key>
+		<username name='jitctf92'>jitctf92</username>
+		<key>murphy</key>
+		<username name='jitctf93'>jitctf93</username>
+		<key>ambari</key>
+		<username name='jitctf94'>jitctf94</username>
+		<key>knight</key>
+		<username name='jitctf95'>jitctf95</username>
+		<key>grilse</key>
+		<username name='jitctf96'>jitctf96</username>
+		<key>eatery</key>
+		<username name='jitctf97'>jitctf97</username>
+		<key>depend</key>
+		<username name='jitctf98'>jitctf98</username>
+		<key>kaveri</key>
+		<username name='jitctf99'>jitctf99</username>
+		<key>neural</key>
+		<username name='jitctf100'>jitctf100</username>
+		<key>abesse</key>
+    </jitctfadmin>
+</root1>
